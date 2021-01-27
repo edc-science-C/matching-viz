@@ -166,7 +166,7 @@ var ViewModel = function() {
       self.toggleVisibility(self.pickedTile1());
       self.toggleVisibility(self.pickedTile2());
       self.initializeTurn();
-    }, 1500);
+    }, 2000);
   };
 
   // This function is called by pickTile() if player selected two tiles that do not match.
