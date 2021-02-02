@@ -61,7 +61,7 @@ body {
 
 /* Game Over Window */
 .game-over {
-  font-size: 3em;
+  font-size: 1em;
   color: #1e73b1;
   position: fixed;
   text-align: center;
